@@ -1,0 +1,11 @@
+
+// Express 공식 
+https://expressjs.com/
+
+// express generator
+Express 기반의 프로젝트를 할 때 기본적으로 필요한 파일과 코드를 자동으로 만들어줌
+
+// 참고
+https://expressjs.com/ko/starter/generator.html
+
+// express generator 로 생성하지 않음
